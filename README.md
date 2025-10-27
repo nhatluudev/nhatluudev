@@ -2,15 +2,15 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Jam Cirxo! 
-*Digital Craftsman (Developer / Programmer)*
+*Developer / Programmer / Problem Solver*
 <br />
 
 <!--Start Intro-->               
-<p align="left">I am working on PASTAL - a centralized art commisision platform. I would make art commission easier, more reliable, and personalized.</p>
+<p align="left">I am working on PASTAL - a centralized platform built for OC-creators.</p>
 
-- ✨ Problem solver :)
-- 🌱 My working motto is "Always working over expectation".
-- ❤  I have a sincere love for technology, art, hand-writing.
+- ✨ 9-9, 24/7, 365/365
+- 🌱 "Always working over expectation".
+- ❤  My sincere love for technology, art, and handwriting.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
